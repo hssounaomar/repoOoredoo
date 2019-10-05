@@ -1,0 +1,12 @@
+{
+    "mongoURI" : "mongodb+srv://oes:Red@oes-llbdm.mongodb.net/test?retryWrites=true",
+    "jwtSecret" : "oesJwtSecret",
+    "clientURL": "http://localhost:3000",
+    "transporter": {
+        "service": "gmail",
+        "auth": {
+            "user": "akram.noreply@gmail.com",
+            "pass": "8520147963"
+        }
+    }
+}
